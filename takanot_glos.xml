@@ -1,0 +1,1122 @@
+<takkanot id="Valladolid1432" date="1432-06" place="Valladolid">
+ <chapter n="I" title="Talmud Torah and Communal Learning">
+
+  <!-- 1. Talmud Torah Fund -->
+  <subsection title="Talmud Torah Fund">
+
+<clause id="I.1">
+
+  <text_original>
+    Whereas we saw that the hands of the students of the
+    <termRef target="#torah">Torah</termRef>
+    have slackened ... therefore do we ordain that each of the Communities
+    of the whole kingdom of Castile shall be obliged to establish and provide
+    a Voluntary Fund for
+    <termRef target="#talmud_torah">Talmud Torah</termRef>
+    in the following manner: For every head of big cattle slaughtered ...
+    five <termRef target="#maravedi">maravedis</termRef>; for calves and heifers ...
+    two <termRef target="#maravedi">maravedis</termRef>; for small cattle ...
+    one <termRef target="#maravedi">maravedi</termRef>; for wine ...
+ three pence per jar retail, two dinars wholesale; for wine sold to Christians ... half a penny; for weddings ... ten maravedis; for circumcisions ... ten maravedis; for deaths ... upper garment or ten maravedis. No collection from the poor.
+    </text_original>
+      <text_modern>
+Every community must collect mandatory contributions to support Torah study. Taxes apply to slaughtered animals, wine sales, weddings, circumcisions, and funerals. Poor families are exempt. Funds must remain exclusively for Torah education.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Talmud Torah fund</concept>
+        <concept>Taxes</concept>
+      </concepts>
+    </clause>
+
+    <clause id="I.2">
+      <text_original>
+        We ordain that each <termRef target="#aljama">community</termRef> shall assemble ten days
+        before the expiration of tax-farm terms ... choose
+        <termRef target="#treasurer">treasurers</termRef> ... and no one may use the
+        <termRef target="#talmud_torah">Fund</termRef> for any other purpose.
+      </text_original>
+      <text_modern>
+        Each community must annually appoint two treasurers for the Talmud Torah Fund,
+        meet on schedule, and ensure the funds remain untouched except for educational
+        needs under the authority of the Court Rabbi.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Governance</concept>
+        <concept>Talmud Torah fund</concept>
+      </concepts>
+    </clause>
+
+<clause id="I.3">
+      <text_original>
+        In places where there is no tax on meat and wine ...
+        they shall create their own <termRef target="#takkanah">ordinance</termRef>.
+        <termRef target="#aljama">Communities</termRef> with fewer than ten families must deliver funds to their tax-collecting community,
+        communities with more families must appoint their own
+        <termRef target="#treasurer">treasurer</termRef>.
+      </text_original>
+      <text_modern>
+        Even small communities must contribute to the Torah Fund. Those without established taxes must create their own system. Small communities pay through their host communities, larger ones appoint independent treasurers.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Taxes</concept>
+        <concept>Talmud Torah fund</concept>
+      </concepts>
+    </clause>
+
+<clause id="I.4">
+      <text_original>
+        No <termRef target="#aljama">community</termRef> or individual may borrow from or use the <termRef target="#talmud_torah">Fund</termRef> for private or public needs.
+        <termRef target="#rabbi">Rabbis</termRef>' salaries may be paid from it only in communities without alternate funding.
+      </text_original>
+      <text_modern>
+        The Torah Fund is protected. It cannot be borrowed from or redirected.
+        Only in specific cases may a Rabbi's salary come from it.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Talmud Torah fund</concept>
+      </concepts>
+      
+    </clause>
+
+  </subsection>
+
+  <!-- 2. Primary School Teachers -->
+  <subsection title="Primary School Teachers">
+     <clause id="I.5">
+      <text_original>
+        Every <termRef target="#aljama">community</termRef> of fifteen families shall maintain a proper <termRef target="#teacher">teacher</termRef> for primary school children.
+        Fathers pay according to means, the community covers the rest.
+      </text_original>
+      <text_modern>
+        Communities with at least fifteen families must hire a qualified teacher for young children. Parents contribute what they can and the community ensures a sustainable salary for the teacher.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Teachers and pupils</concept>
+      </concepts>
+    </clause>
+
+  </subsection>
+
+  <!-- 3. Rabbis -->
+  <subsection title="Rabbis and Rabbinic Support">
+    <clause id="I.6">
+      <text_original>
+        Communities with forty families or more must maintain a
+        <termRef target="#rabbi">Rabbi</termRef> who teaches
+        <termRef target="#halakhot">Halakhot</termRef> and
+        <termRef target="#aggadot">Aggadot</termRef>. His salary comes from
+        <termRef target="#meat_tax">meat</termRef> and
+        <termRef target="#wine_tax">wine taxes</termRef>,
+        the <termRef target="#hekdesh">Hakdesh</termRef>, or the
+        <termRef target="#talmud_torah">Torah Fund</termRef>.
+      </text_original>
+      <text_modern>
+        Larger communities must employ a Rabbi as teacher and spiritual guide.
+        His income should ensure independence from wealthy patrons.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Rabbis</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+
+  </subsection>
+
+  <!-- 4. Talmudic Academy -->
+  <subsection title="Talmudic Academy">
+    <clause id="I.7">
+      <text_original>
+        Each <termRef target="#rabbi">Rabbi</termRef> shall maintain a <termRef target="#yeshiva">Talmudic academy</termRef> where those desirous of learning may study. He shall lecture at customary hour.
+      </text_original>
+      <text_modern>
+        Every community Rabbi must operate a local academy offering regular study sessions.
+      </text_modern>
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Academy regulations</concept>
+      </concepts>
+    </clause>
+
+  </subsection>
+
+  <!-- 5. Number of Pupils per Teacher -->
+  <subsection title="Number of Pupils per Teacher">
+
+<clause id="I.8">
+      <text_original>
+        No <termRef target="#teacher">teacher</termRef> may instruct more than twenty five children unless he has an assistant, with an assistant he may teach forty.
+        Communities with fifty children must hire two
+        <termRef target="#teacher">teachers</termRef>.
+      </text_original>
+      <text_modern>
+        One teacher may teach up to 25 students or 40 with an assistant. Larger communities must hire additional teachers.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Education</concept>
+        <concept>Teachers and pupils</concept>
+      </concepts>
+    </clause>
+
+  </subsection>
+
+  <!-- 6. Prayers -->
+  <subsection title="Public Prayers and Synagogue Conduct">
+
+ <clause id="I.9">
+      <text_original>
+        Any community of ten families must establish a place for public prayer, that is, a <termRef target="#synagogue">synagogue</termRef>.
+        Fines apply for failing to attend communal prayers without valid reason.
+      </text_original>
+      <text_modern>
+        Communities must operate a synagogue and maintain regular
+        <termRef target="#minyan">minyanim</termRef>. Habitual absence is penalized.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Synagogue</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+
+    <clause id="I.10">
+      <text_original>
+        Violence in <termRef target="#synagogue">synagogues</termRef> is severely punished, 200 <termRef target="#maravedi">maravedis</termRef> for striking, 300 for wounding with a weapon, funds go to
+        <termRef target="#talmud_torah">Torah study</termRef> and
+        <termRef target="#charity_fund">charity</termRef>.
+      </text_original>
+      <text_modern>
+        Violence or threats inside sacred spaces incur heavy fines and sanctions.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Synagogue</concept>
+        <concept>Synagogue violence</concept>
+      </concepts>
+    </clause>
+
+  </subsection>
+
+</chapter>
+
+
+<chapter n="II" title="Judges and Communal Officers">
+
+  <subsection title="Selection of Judges">
+    <clause id="II.1">
+       <text_original>
+        Whereas the number of scholars has become small ... they shall choose
+        <termRef target="#dayyan">judges</termRef> to decide their cases as has been said and the members of the <termRef target="#aljama">community</termRef> shall accept them.
+        They shall gather within ten days to elect new
+        <termRef target="#dayyan">judges</termRef> yearly. Electors must choose only the most worthy. If no agreement is reached, they must deliberate up to eight days,then notify the <termRef target="#court_rabbi">Rabbi of the Court</termRef>.
+      </text_original>
+      <text_modern>
+        Communities must elect qualified judges annually. Elections must be held promptly, with deliberations limited to eight days. If no agreement is reached, the Court Rabbi appoints the judges.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Duties and Powers of Judges">
+    <clause id="II.2">
+         <text_original>
+        <termRef target="#dayyan">Judges</termRef> shall judge disputes according to <termRef target="#talmud_law">Talmudic law</termRef>, may impose fines with approval of the <termRef target="#court_rabbi">Rabbi</termRef> and three Best Men.
+        Litigants may appeal to the <termRef target="#court_rabbi">Rabbi of the Court</termRef>.
+      </text_original>
+      <text_modern>
+        Judges exercise legal authority in civil cases and may impose penalties, subject to oversight. All parties retain the right of appeal to the Court Rabbi.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Qualifications of Judges">
+    <clause id="II.3">
+      <text_original>
+        <termRef target="#dayyan">Judges</termRef> must not be related to each other, in accordance with <termRef target="#sanhedrin">Sanhedrin 11:1</termRef>.
+      </text_original>
+      <text_modern>
+        Kinship disqualifies individuals from serving together on the bench to ensure impartiality.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Rules of Procedure">
+    <clause id="II.4">
+     <text_original>
+        <termRef target="#dayyan">Judges</termRef> shall fix meeting days three times a week.
+        Litigants are compelled to appear, failure results in escalating fines to the <termRef target="#charity_fund">Charity Fund</termRef>.
+      </text_original>
+      <text_modern>
+        Courts meet regularly and litigants must comply with summons.
+        Repeated absences lead to significant fines.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Cases Involving Judges">
+    <clause id="II.5">
+       <text_original>
+        If a <termRef target="#dayyan">judge</termRef> is party to a case, he must appear before another judge. If no judge is available, the community must appoint one within three days. <termRef target="#dayyan">Judges</termRef> cannot try cases involving relatives or conflicts of interest.
+      </text_original>
+      <text_modern>
+        Judges are subject to the same process as others and must recuse themselves from conflicts of interest.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Conflicts of interest</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Jurisdiction and Tax Lists">
+    <clause id="II.6">
+       <text_original>
+        <termRef target="#dayyan">Judges</termRef> may not use judicial authority to alter <termRef target="#tax">tax</termRef> lists, though they may adjudicate tax disputes.
+      </text_original>
+      <text_modern>
+        Courts may hear tax related complaints but cannot directly change tax distribution.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Taxes</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Special Judges">
+    <clause id="II.7">
+       <text_original>
+        If a community requests external <termRef target="#dayyan">judges</termRef> due to internal conflict, the <termRef target="#court_rabbi">Court Rabbi</termRef> may appoint a temporary judge. Without majority request, he may not intervene.
+      </text_original>
+      <text_modern>
+        Communities may request outside judges when necessary. The Court Rabbi intervenes only with majority approval.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Appeals">
+    <clause id="II.8">
+      <text_original>
+        <termRef target="#dayyan">Judges</termRef> must grant appeals within a reasonable time.
+        Appellants must swear sincerity and guarantee costs.
+      </text_original>
+      <text_modern>
+        Appeals are permitted with safeguards to prevent abuse. Appellants must prove good faith and cover expenses.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Appeals</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Written Briefs">
+    <clause id="II.9">
+      <text_original>
+Litigants may not submit written briefs without permission. Briefs must avoid insults. No one may advise litigants without written court permission.
+      </text_original>
+      <text_modern>
+Written arguments require approval and must remain respectful. Unauthorized legal coaching is prohibited.
+      </text_modern>
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Testimony Against Judges">
+    <clause id="II.10">
+     <text_original>
+        Scribes must record testimony against
+        <termRef target="#dayyan">judges</termRef> within three days.
+        Failure to do so incurs a fine.
+      </text_original>
+      <text_modern>
+        Communal scribes must process testimonies promptly or face penalties.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Bodily Apprehension">
+    <clause id="II.11">
+     <text_original>
+        No <termRef target="#dayyan">judge</termRef> may order physical seizure of any Jew
+        without a written order stating the cause.
+      </text_original>
+      <text_modern>
+        Arrest warrants must be written, justified, and witnessed.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Serving a Writ">
+    <clause id="II.12">
+      <text_original>
+Writs must be served within fifty days, otherwise they lose validity.
+      </text_original>
+      <text_modern>
+Legal writs expire if not delivered promptly.
+      </text_modern>
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+</chapter>
+
+
+<chapter n="III" title="Defamations and Legal Boundaries">
+
+  <subsection title="Prohibition of Gentile Courts">
+    <clause id="III.1">
+    <text_original>
+        No Jew shall summon another Jew before
+        <termRef target="#gentile_court">Gentile judges</termRef>.
+        Anyone who does so shall be placed under
+        <termRef target="#herem">ban</termRef> and fined ten pounds of silver for the <termRef target="#talmud_torah">Talmud Torah</termRef> and <termRef target="#charity_fund">Charity</termRef> funds.
+        The <termRef target="#aljama">community</termRef> must protest and support the accused party.
+      </text_original>
+      <text_modern>
+        Jews may not bring disputes to Christian courts. Doing so results in excommunication and a major fine. Communities must defend any member taken improperly to external courts.
+      </text_modern>
+
+      <concepts>
+        <concept>Judges</concept>
+        <concept>External courts</concept>
+        <concept>Defamation</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Penalties for Defamation">
+    <clause id="III.2">
+      <text_original>
+        Anyone who publicly defames another by calling him apostate,
+        <termRef target="#mamzer">mamzer</termRef>, or similar derogatory terms shall be fined ten pounds of silver. Money goes to
+        <termRef target="#talmud_torah">Torah study</termRef> and
+        <termRef target="#charity_fund">charity</termRef>.
+      </text_original>
+      <text_modern>
+        Severe insults that damage lineage or reputation are heavily penalized.
+        The fines support communal education and welfare.
+      </text_modern>
+
+      <concepts>
+        <concept>Defamation</concept>
+        <concept>Lineage slander</concept>
+      </concepts>
+    </clause>
+
+    <clause id="III.3">
+      <text_original>
+If the insult concerns lineage and the accused is actually of legitimate descent, the court shall impose a greater fine as they see fit.
+      </text_original>
+      <text_modern>
+If defamatory claims concerning ancestry are proven false, judges may impose greater penalties due to the seriousness of lineage status.
+      </text_modern>
+
+      <concepts>
+        <concept>Defamation</concept>
+        <concept>Lineage slander</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Informers">
+    <clause id="III.4">
+      <text_original>
+        Anyone who informs on a fellow Jew to <termRef target="#gentile_authority">Gentile authorities</termRef> causing monetary loss shall pay full damages. If he cannot pay, he shall be under <termRef target="#herem">ban</termRef> until restitution is made.
+      </text_original>
+      <text_modern>
+        Informers who cause financial loss must make full restitution and remain under communal ban if they cannot pay.
+      </text_modern>
+
+      <concepts>
+        <concept>Informers</concept>
+        <concept>Commerce</concept>
+      </concepts>
+    </clause>
+
+    <clause id="III.5">
+      <text_original>
+If a person informs in matters concerning life or physical harm, the community shall treat him as one who endangers the public and act according to <termRef target="#talmud_law">Rabbinic law</termRef>..
+      </text_original>
+      <text_modern>
+Informers who create life threatening situations are treated as dangerous offenders under Jewish law.
+      </text_modern>
+
+      <concepts>
+        <concept>Informers</concept>
+        <concept>Gentile authorities</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Appeals for Safety">
+    <clause id="III.6">
+     <text_original>
+        If a Jew is arrested by
+        <termRef target="#gentile_authority">Gentile authorities</termRef> due to another
+        Jew’s accusation, the accuser must justify his words in court. Failure to justify
+        leads to punishment as the <termRef target="#dayyan">judges</termRef> determine.
+      </text_original>
+      <text_modern>
+        Whoever causes another Jew to be arrested must prove the legitimacy of the accusation
+        or face sanctions.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Informers</concept>
+        <concept>Gentile authorities</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Forced Betrothals and Marriages">
+    <clause id="III.7">
+     <text_original>
+        No one may use <termRef target="#gentile_authority">Gentile authorities</termRef> to force a betrothal or <termRef target="#marriage">marriage</termRef>.
+        Such acts are void, and the perpetrator shall be punished.
+      </text_original>
+      <text_modern>
+        Jewish marriage law cannot be enforced through Christian courts.
+        Attempts to use external authority invalidate the act and bring penalties.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Marriage</concept>
+        <concept>Betrothal coercion</concept>
+        <concept>Gentile authorities</concept>
+      </concepts>
+    </clause>
+
+    <clause id="III.8">
+       <text_original>
+        If a man imposes coercion on a woman through <termRef target="#gentile_authority">Gentile officials</termRef>, the <termRef target="#dayyan">judges</termRef> shall fine him and remove the threat.
+      </text_original>
+      <text_modern>
+        Coercion of women through outside authorities is forbidden. Courts intervene to remove
+        the threat and punish the aggressor.
+      </text_modern>
+
+      <concepts>
+        <concept>Marriage</concept>
+        <concept>Betrothal coercion</concept>
+        <concept>Gentile authorities</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Intimidation of Judges">
+    <clause id="III.9">
+      <text_original>
+        Anyone who intimidates <termRef target="#dayyan">judges</termRef> or attempts to
+        influence judgment through threats shall be placed under
+        <termRef target="#herem">ban</termRef> and fined.
+      </text_original>
+      <text_modern>
+        Threats to judicial independence are severely punished to protect fair legal process.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Judicial intimidation</concept>
+        <concept>Judges</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Sale of Wine">
+    <clause id="III.10">
+  <text_original>
+        No one may sell <termRef target="#wine">wine</termRef> to Christians in a manner that causes disgrace to the <termRef target="#aljama">community</termRef>.
+        Violators shall be fined.
+      </text_original>
+      <text_modern>
+        Wine commerce with Christians must avoid damaging communal reputation.
+        Violations incur penalties.
+      </text_modern>
+
+      <concepts>
+        <concept>Commerce</concept>
+        <concept>Wine commerce</concept>
+      </concepts>
+    </clause>
+
+    <clause id="III.11">
+      <text_original>
+        If <termRef target="#wine">wine</termRef> is sold improperly and results in community harm, <termRef target="#dayyan">judges</termRef> may impose stronger sanctions based on circumstances.
+      </text_original>
+      <text_modern>
+        Courts may increase penalties when wine sales create broader risks or dishonor.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Commerce</concept>
+        <concept>Wine commerce</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+</chapter>
+
+
+<chapter n="IV" title="Taxes and Community Service">
+
+  <subsection title="Tax Exemptions and Abuse">
+    <clause id="IV.1">
+      <text_original>
+        No Jew shall claim exemption from communal
+        <termRef target="#tax">taxes</termRef> unless he possesses a written document issued
+        by the <termRef target="#aljama">community</termRef>.
+        Anyone claiming exemption without such proof shall pay double.
+      </text_original>
+      <text_modern>
+        Tax exemptions must be officially documented. False exemption claims result
+        in double payment.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Tax exemptions</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Special Privileges and Exempt Families">
+    <clause id="IV.2">
+      <text_original>
+        <termRef target="#aljama">Communities</termRef> may not grant permanent exemptions
+        for families or individuals. Any exemptions granted in the past are revoked unless
+        renewed with the consent of the <termRef target="#court_rabbi">Court Rabbi</termRef>.
+      </text_original>
+      <text_modern>
+        Long term or inherited tax exemptions are invalid unless newly confirmed by the
+        Court Rabbi.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Tax exemptions</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+
+    <clause id="IV.3">
+      <text_original>
+        If a person renders special services to the
+        <termRef target="#aljama">community</termRef>, temporary exemptions may be granted
+        for a set period and must be recorded in writing.
+      </text_original>
+      <text_modern>
+        Temporary exemptions are allowed as compensation for community service but must be
+        time-limited and documented.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Grievances and Redress">
+    <clause id="IV.4">
+     <text_original>
+        Anyone who feels taxed unfairly may appeal to the
+        <termRef target="#dayyan">judges</termRef>. Judges must hear his claim within eight days, and may adjust the <termRef target="#tax">tax</termRef> only for clear injustice.
+      </text_original>
+      <text_modern>
+        Tax disputes must be reviewed promptly. Adjustments occur only when clear inequity is demonstrated.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Appeals</concept>
+      </concepts>
+    </clause>
+
+    <clause id="IV.5">
+     <text_original>
+        If a <termRef target="#aljama">community</termRef> is found guilty of tax abuse,
+        they must correct the distribution and compensate the injured party.
+      </text_original>
+      <text_modern>
+        Communities must rectify unfair tax practices and provide restitution to those harmed.
+      </text_modern>
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Widows and Orphans">
+    <clause id="IV.6">
+      <text_original>
+        <termRef target="#widows_orphans">Widows and orphans</termRef> shall not be taxed
+        more than the proportion established by previous communal custom.
+        <termRef target="#dayyan">Judges</termRef> must protect their rights.
+      </text_original>
+      <text_modern>
+        Widows and orphans receive special protection against excessive taxation and rely
+        on judicial oversight.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Widows and orphans</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Taxes on Meat and Wine">
+    <clause id="IV.7">
+       <text_original>
+        <termRef target="#aljama">Communities</termRef> must maintain equal tax rates on
+        <termRef target="#meat_tax">meat</termRef> and
+        <termRef target="#wine_tax">wine</termRef> for all residents.
+        No butcher or wine seller may privately alter rates. Violators pay fines to the
+        <termRef target="#talmud_torah">Talmud Torah Fund</termRef>.
+      </text_original>
+      <text_modern>
+        Tax rates on meat and wine must be uniform. Secret alterations or favoritism
+        are penalized.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Meat and wine tax</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Tax Evasion">
+    <clause id="IV.8">
+           <text_original>
+        Anyone who hides income or property to avoid
+        <termRef target="#tax">taxation</termRef> shall be taxed triple the concealed amount.
+      </text_original>
+      <text_modern>
+        Tax evasion results in a penalty equal to three times the concealed value.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Taxes</concept>
+        <concept>Tax evasion</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+  <subsection title="Announcement of Community Meetings">
+    <clause id="IV.9">
+      <text_original>
+        <termRef target="#aljama">Community</termRef> assemblies must be publicly announced.
+        Decisions made without proper notice are void unless confirmed later by the
+        <termRef target="#dayyan">judges</termRef>.
+      </text_original>
+      <text_modern>
+        Communal decisions require public notice. Unannounced meetings produce invalid
+        rulings unless later ratified.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Governance</concept>
+        <concept>Community meetings</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+</chapter>
+
+
+<chapter n="V" title="Dress, Festivities, and Social Boundaries">
+
+  <subsection title="Clothing Restrictions for Women">
+    <clause id="V.1">
+      <text_original>
+        No Jewish woman may wear apparel, jewelry, or ornaments in imitation of <termRef target="#christian_elite">Christian noblewomen</termRef>.
+        Any violation shall result in fines determined by the
+        <termRef target="#dayyan">judges</termRef> and the
+        <termRef target="#court_rabbi">Court Rabbi</termRef>.
+      </text_original>
+      <text_modern>
+        Women are prohibited from adopting Christian aristocratic clothing or jewelry.
+        Courts impose fines for violations to maintain communal distinction.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Clothing</concept>
+        <concept>Social boundaries</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+
+  <subsection title="Clothing Restrictions for Men">
+    <clause id="V.2">
+      <text_original>
+        No Jewish man may wear clothing or accessories patterned after
+        <termRef target="#christian_elite">Christian knights or nobles</termRef>.
+        Anyone found doing so shall be fined and compelled to remove the
+        prohibited garment.
+      </text_original>
+      <text_modern>
+        Jewish men may not imitate the attire of Christian elites, especially
+        martial or noble dress. Offenders face fines and must abandon the practice.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Clothing</concept>
+        <concept>Social boundaries</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+
+  <subsection title="Local Authority on Dress Codes">
+    <clause id="V.3">
+      <text_original>
+        Each <termRef target="#aljama">community</termRef>, with approval of the
+        <termRef target="#court_rabbi">Court Rabbi</termRef>, may establish additional
+        rules concerning modesty and dress appropriate to local circumstances.
+        These rules must be publicized.
+      </text_original>
+      <text_modern>
+        Communities may set stricter or more specific dress regulations based on local needs,
+        with Rabbinic approval and public notice.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Clothing</concept>
+        <concept>Governance</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+
+  <subsection title="Dinners and Festivities">
+    <clause id="V.4">
+    <text_original>
+        At feasts, <termRef target="#marriage">weddings</termRef>, and celebrations,
+        no Jew shall imitate the customs of <termRef target="#gentile_customs">Gentiles</termRef>
+        in entertainment, musical troupes, or excessive display.
+        Fines support the <termRef target="#talmud_torah">Talmud Torah</termRef> and
+        <termRef target="#charity_fund">charity</termRef> funds.
+      </text_original>
+      <text_modern>
+        Festive gatherings must avoid Christian style pageantry or extravagant
+        entertainment. Violations lead to fines benefiting communal education and
+        welfare institutions.
+      </text_modern>
+
+
+      <concepts>
+        <concept>Festive imitations</concept>
+        <concept>Social boundaries</concept>
+      </concepts>
+    </clause>
+  </subsection>
+
+</chapter>
+
+
+<!-- Expanded lexical terms for word parsing -->
+<terms>
+
+  <!-- Core Hebrew and rabbinic concepts -->
+  <term xml:id="talmud_torah" type="education">
+    <lemma xml:lang="he">תלמוד תורה</lemma>
+    <lemma xml:lang="lad">Talmud Tora</lemma>
+    <gloss>study of Torah, Talmud Torah fund</gloss>
+  </term>
+
+
+  <term xml:id="torah" type="education">
+    <lemma xml:lang="he">תורה</lemma>
+    <lemma xml:lang="lad">Tora</lemma>
+    <gloss>Torah, instruction, law</gloss>
+  </term>
+
+
+  <term xml:id="talmud_law" type="legal">
+    <lemma xml:lang="he">תלמוד</lemma>
+    <lemma xml:lang="lad">Talmud</lemma>
+    <gloss>Talmudic law, rabbinic jurisprudence</gloss>
+  </term>
+
+
+  <term xml:id="halakhot" type="education">
+    <lemma xml:lang="he">הלכות</lemma>
+    <lemma xml:lang="lad">Alahot</lemma>
+    <gloss>legal teachings, Halakhot</gloss>
+  </term>
+
+
+  <term xml:id="aggadot" type="education">
+    <lemma xml:lang="he">אגדות</lemma>
+    <lemma xml:lang="lad">Agadot</lemma>
+    <gloss>narrative teachings, Aggadot</gloss>
+  </term>
+
+
+  <term xml:id="yeshiva" type="education">
+    <lemma xml:lang="he">ישיבה</lemma>
+    <lemma xml:lang="lad">Yesiva</lemma>
+    <gloss>Talmudic academy</gloss>
+  </term>
+
+
+  <term xml:id="nefesh" type="anthropology">
+    <lemma xml:lang="he">נפש</lemma>
+    <lemma xml:lang="lad">nefesh</lemma>
+    <gloss>life, person, self</gloss>
+  </term>
+
+
+  <term xml:id="dayyan" type="judiciary">
+    <lemma xml:lang="he">דיין</lemma>
+    <lemma xml:lang="lad">dayan</lemma>
+    <gloss>judge, religious judge</gloss>
+  </term>
+
+
+  <term xml:id="court_rabbi" type="judiciary">
+    <lemma xml:lang="he">רב בית דין</lemma>
+    <lemma xml:lang="lad">rabi del bet-din</lemma>
+    <gloss>Court Rabbi, head of the rabbinic court</gloss>
+  </term>
+
+
+  <term xml:id="rabbi" type="religious_office">
+    <lemma xml:lang="he">רב</lemma>
+    <lemma xml:lang="lad">rabi</lemma>
+    <gloss>Rabbi, communal religious leader</gloss>
+  </term>
+
+
+  <term xml:id="herem" type="sanction">
+    <lemma xml:lang="he">חרם</lemma>
+    <lemma xml:lang="lad">herem</lemma>
+    <gloss>ban, excommunication</gloss>
+  </term>
+
+
+  <term xml:id="mamzer" type="lineage">
+    <lemma xml:lang="he">ממזר</lemma>
+    <lemma xml:lang="lad">mamzer</lemma>
+    <gloss>illegitimate child, lineage stigma</gloss>
+  </term>
+
+
+  <!-- Institutions and communal roles -->
+  <term xml:id="aljama" type="institution">
+    <lemma xml:lang="he">אלחמה</lemma><!-- Medieval Hebraized script sometimes appears -->
+    <lemma xml:lang="lad">aljama</lemma>
+    <gloss>Jewish community, corporate body</gloss>
+  </term>
+
+
+  <term xml:id="synagogue" type="institution">
+    <lemma xml:lang="he">בית כנסת</lemma>
+    <lemma xml:lang="lad">kal</lemma>
+    <gloss>synagogue</gloss>
+  </term>
+
+
+  <term xml:id="minyan" type="ritual">
+    <lemma xml:lang="he">מניין</lemma>
+    <lemma xml:lang="lad">minyan</lemma>
+    <gloss>prayer quorum</gloss>
+  </term>
+
+
+  <term xml:id="teacher" type="education">
+    <lemma xml:lang="he">מלמד</lemma>
+    <lemma xml:lang="lad">melamed</lemma>
+    <gloss>primary school teacher</gloss>
+  </term>
+
+
+  <term xml:id="treasurer" type="office">
+    <lemma xml:lang="he">גזבר</lemma>
+    <lemma xml:lang="lad">gabay</lemma>
+    <gloss>communal treasurer</gloss>
+  </term>
+
+
+  <term xml:id="charity_fund" type="charity">
+    <lemma xml:lang="he">קופת צדקה</lemma>
+    <lemma xml:lang="lad">kupa de tsedaka</lemma>
+    <gloss>charity fund</gloss>
+  </term>
+
+
+  <term xml:id="widows_orphans" type="social">
+    <lemma xml:lang="he">אלמנות ויתומים</lemma>
+    <lemma xml:lang="lad">viudas i orfanos</lemma>
+    <gloss>widows and orphans</gloss>
+  </term>
+
+
+  <!-- Economic and legal vocabulary -->
+  <term xml:id="maravedi" type="currency">
+    <lemma xml:lang="he">מרבדיס</lemma><!-- appears in some manuscript Hebraization -->
+    <lemma xml:lang="lad">maravedi</lemma>
+    <gloss>medieval Castilian coin</gloss>
+  </term>
+
+  <term xml:id="tax" type="fiscal">
+    <lemma xml:lang="he">מס</lemma>
+    <lemma xml:lang="lad">impuesto</lemma>
+    <gloss>communal tax</gloss>
+  </term>
+
+  <term xml:id="meat_tax" type="fiscal">
+    <lemma xml:lang="he">מס בשר</lemma>
+    <lemma xml:lang="lad">impuesto de karne</lemma>
+    <gloss>meat tax</gloss>
+  </term>
+
+  <term xml:id="wine_tax" type="fiscal">
+    <lemma xml:lang="he">מס יין</lemma>
+    <lemma xml:lang="lad">impuesto de vino</lemma>
+    <gloss>wine tax</gloss>
+  </term> 
+
+  <term xml:id="takkanah" type="legal">
+    <lemma xml:lang="he">תקנה</lemma>
+    <lemma xml:lang="lad">takana</lemma>
+    <gloss>communal ordinance</gloss>
+  </term>
+
+  <term xml:id="kablan" type="economy">
+    <lemma xml:lang="he">קבלן</lemma>
+    <lemma xml:lang="lad">kablan</lemma>
+    <gloss>contractor, guarantor</gloss>
+  </term>
+
+  <!-- External authority -->
+  <term xml:id="gentile_court" type="external_authority">
+    <lemma xml:lang="he">ערכאות של גויים</lemma>
+    <lemma xml:lang="lad">kortes de goyim</lemma>
+    <gloss>Gentile courts</gloss>
+  </term>
+
+  <term xml:id="gentile_authority" type="external_authority">
+    <lemma xml:lang="he">רשויות גויים</lemma>
+    <lemma xml:lang="lad">autoridades de goyim</lemma>
+    <gloss>Gentile officials</gloss>
+  </term>
+
+  <term xml:id="wine" type="commodity">
+    <lemma xml:lang="he">יין</lemma>
+    <lemma xml:lang="lad">vino</lemma>
+    <gloss>wine</gloss>
+  </term>
+
+  <!-- Family and status -->
+  <term xml:id="marriage" type="family_law">
+    <lemma xml:lang="he">נישואין</lemma>
+    <lemma xml:lang="lad">kazamiento</lemma>
+    <gloss>marriage, betrothal</gloss>
+  </term>
+
+  <!-- Social boundaries -->
+  <term xml:id="christian_elite" type="social_boundary">
+    <lemma xml:lang="he">נוצרים אצילים</lemma>
+    <lemma xml:lang="lad">nobles kristianos</lemma>
+    <gloss>Christian nobility</gloss>
+  </term>
+
+  <term xml:id="gentile_customs" type="social_boundary">
+    <lemma xml:lang="he">חוקות הגויים</lemma>
+    <lemma xml:lang="lad">kostumbres de goyim</lemma>
+    <gloss>Gentile customs</gloss>
+  </term>
+
+</terms>
+
+</takkanot>
