@@ -92,6 +92,22 @@ Consistent with SIDE CULTURES Spain’s research focus, the project will analyze
 
 For questions regarding the dataset, methodology, or collaborations:  
 **Shai Cohen**  
-University of Miami, SIDE CULTURES Spain  
-[Personal website](https://shaicohen.net)
+Senior Lecturer of Spanish, Hebrew, and Sephardic Studies
+Interim Director, The Eleonore Graves Tripp Modern Languages Laboratory and Media Center
+Coordinator, University of Miami Virtual Immersion Program
+Coordinator, MLL Internship
+Founding Director, Sephardi Spaces: https://sepharad.miami.edu/
+SIDE-CULTURE SP National Project: https://side-cultures.com/
+Personal web, https://shaicohen.net
+
+5202 University Drive
+Merrick Building, Suite 115
+Coral Gables, FL 33146
+Tel: (305) 284 2288
+Department of Modern Languages and Literatures
+College of Arts & Sciences, University of Miami
+
+LinkedIn: https://www.linkedin.com/in/shai-cohen-7133052a/
+Orcid: 0000-0002-1367-6718 
+
 
