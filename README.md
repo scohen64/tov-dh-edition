@@ -9,10 +9,10 @@ The goal of this repository is to provide an open, reusable resource for scholar
 ## Project Links
 
 * **Personal website** (project overview):  
-  https://shaicohen.net
+  [Personal website](https://shaicohen.net) 🔗
 
 * **Sephardi Spaces** (public facing GIS digital initiative):  
-  https://sepharad.miami.edu
+  [Sephardi Spaces](https://sepharad.miami.edu) ↗
 
 * **SIDE CULTURES Spain Research Group** (institutional context of the project):  
   https://side-cultures.com
@@ -93,5 +93,5 @@ Consistent with SIDE CULTURES Spain’s research focus, the project will analyze
 For questions regarding the dataset, methodology, or collaborations:  
 **Shai Cohen**  
 University of Miami, SIDE CULTURES Spain  
-Personal site: https://shaicohen.net
+[Personal website](https://shaicohen.net)
 
