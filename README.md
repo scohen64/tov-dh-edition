@@ -9,7 +9,7 @@ The goal of this repository is to provide an open, reusable resource for scholar
 ## Project Links
 
 * **Interactive Digital Interface**
-  [TEI-based searchable edition](https://script.google.com/macros/s/AKfycbyk16cPSYrQr6Y9YFQf6eJTtM8lSNTOZ656T2sToQNC2S6AjOQLvqDGgKn1F0FZG7XJ7Q/exece)
+  [TEI-based searchable edition](https://script.google.com/macros/s/AKfycbyk16cPSYrQr6Y9YFQf6eJTtM8lSNTOZ656T2sToQNC2S6AjOQLvqDGgKn1F0FZG7XJ7Q/exec)
 
 * **Personal website** (project overview):  
   [Personal website](https://shaicohen.net) 🔗
